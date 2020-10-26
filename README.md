@@ -16,4 +16,5 @@ C++ (xcode or gnu 8), cmake, grpc, protobuf, libomp
 * standalone (baseline) w/o grpc or cmake (loop-baseline) * observation and timing studies of parts 1 and 2
 
 
-# Part 3: cython and pybindgen (TBD)Pre-reqs: cython, pybindgen, C++ (gnu 8 or newer), cmake * Simple binding using pybindgen * Cython (TBD)
+# Part 3: cython and pybindgen (TBD)Pre-reqs:
+cython, pybindgen, C++ (gnu 8 or newer), cmake * Simple binding using pybindgen * Cython (TBD)
